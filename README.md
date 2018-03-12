@@ -1,0 +1,2 @@
+# FRESimcad
+Simcad file information
